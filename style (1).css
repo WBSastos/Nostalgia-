@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+}
+#apps{
+    background-color:aquamarine
+}
+#MyCarousel{
+    background-color:darkturquoise;
+}
+.line{
+    height:5px;
+    width:100px;
+    background-color:black;
+    margin:8px auto;                                       
+}
